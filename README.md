@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Header](https://raw.githubusercontent.com/codingcodewhilegoofin/<OWNER>/<OWNER>/profile_pic_lel.PNG "Header")](https://some-url.dev/)
+
+
 <!--
 **codingcodewhilegoofin/codingcodewhilegoofin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
