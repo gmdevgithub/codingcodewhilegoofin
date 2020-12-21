@@ -2,6 +2,8 @@
 
 [![Header](https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/profile%20pic%20lel.PNG "Header")](https://yupimaperson101.wixsite.com/giovannimoscatocode)
 
+# But who is Giovanni Moscato ? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <!--
 **codingcodewhilegoofin/codingcodewhilegoofin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
