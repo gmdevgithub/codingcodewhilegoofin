@@ -23,7 +23,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/codingcodewhilegoofin/codingcodewhilegoofin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingcodewhilegoofin&hide=java,html&title_color=ffffff&text_color=01aefd&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingcodewhilegoofin&hide=java,html&title_color=5944e7&text_color=01aefd&icon_color=#7417fc&bg_color=cd16ff" />
 </a>
 
 
