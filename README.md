@@ -26,8 +26,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingcodewhilegoofin&hide=java,html&title_color=7417fc&text_color=01aefd&icon_color=#7417fc&bg_color=ffffff" />
 </a>
 
-</br> 
-</br> 
+
 
 <a href="https://github.com/codingcodewhilegoofin/codingcodewhilegoofin">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=codingcodewhilegoofin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=5944e7&bg_color=01aefd" alt="Gio's GitHub Stats" />
