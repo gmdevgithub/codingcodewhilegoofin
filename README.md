@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/codingcodewhilegoofin/<OWNER>/<OWNER>/profile_pic_lel.PNG "Header")](https://yupimaperson101.wixsite.com/giovannimoscatocode)
+[![Header](https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/profile%20pic%20lel.PNG "Header")](https://yupimaperson101.wixsite.com/giovannimoscatocode)
 
 
 <!--
