@@ -23,12 +23,12 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/codingcodewhilegoofin/codingcodewhilegoofin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingcodewhilegoofin&hide=java,html&title_color=ffffff&text_color=01aefd&icon_color=#7417fc&bg_color=cd16ff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingcodewhilegoofin&hide=java,html&title_color=7417fc&text_color=01aefd&icon_color=#7417fc&bg_color=ffffffff" />
 </a>
 
 
 <a href="https://github.com/codingcodewhilegoofin/codingcodewhilegoofin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingcodewhilegoofin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=7417fc&icon_color=5944e7&bg_color=01aefd" alt="Gio's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingcodewhilegoofin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=5944e7&bg_color=01aefd" alt="Gio's GitHub Stats" />
 </a>
 
 
