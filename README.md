@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/codingcodewhilegoofin/FullStackWebsite-WithAWS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codingcodewhilegoofin&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codingcodewhilegoofin&FullStackWebsite-WithAWS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
