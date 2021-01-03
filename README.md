@@ -1,7 +1,7 @@
 
 # Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Header](https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/profile%20pic%20lel.PNG "Header")](https://yupimaperson101.wixsite.com/giovannimoscatocode)
+[![Header](https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/asdf13.PNG "Header")](https://yupimaperson101.wixsite.com/giovannimoscatocode)
 
 # But who is Giovanni Moscato ? <img src="https://media.giphy.com/media/xUPGcz2H1TXdCz4suY/giphy.gif" width="100px" height="100px">
 
