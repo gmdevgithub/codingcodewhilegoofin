@@ -26,7 +26,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=codingcodewhilegoofin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=5944e7&bg_color=01aefd" alt="Gio's GitHub Stats" />
 </a>
 
+# My resume! 
 
+[![Header](https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/GiovanniJMoscato.PDF "Header")](https://yupimaperson101.wixsite.com/giovannimoscatocode)
 
 
 
