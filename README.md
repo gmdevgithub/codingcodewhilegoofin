@@ -30,8 +30,13 @@
 
 # My resume! 
 
-[![Header](https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/Giovanni J Moscato.PDF "Header")](https://yupimaperson101.wixsite.com/giovannimoscatocode)
+[![Header](https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/GiovanniJMoscato.PDF "Header")](https://yupimaperson101.wixsite.com/giovannimoscatocode)
 
+<object data="https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/GiovanniJMoscato.PDF" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/GiovanniJMoscato.PDF">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/codingcodewhilegoofin/codingcodewhilegoofin/blob/main/GiovanniJMoscato.PDF">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 <!--
