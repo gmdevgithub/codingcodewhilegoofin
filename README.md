@@ -5,7 +5,14 @@
 
 # Who is Giovanni Moscato ? <img src="https://media.giphy.com/media/xUPGcz2H1TXdCz4suY/giphy.gif" width="100px" height="100px">
 
-<p> I started programming about 5 years ago at my community college and began to grow more interest in it as I progressed through school. Originally I was going to school for VFX or some kind of art program. I have always had a love for art and music but I also wanted to work in the tech industry. My dream career would involve combing technology and art together to create experiences that users really love. At the moment I have a wide range of beginer experience in programming and design aspects. Currently I am trying to figure out what emphasis of programming I'd like to focus on. Recently I have begun to explore Machine Learning! I plan to keep growing my developer knowledge while letting my creative side flourish with new projects on Github! </p>
+<p> I started programming about 4 years ago at my community college. I'm currently working on 3-4 projects!
+
+I just graduated from Northern Illinois University with a B.S in computer science ( specifically computational programming ) and minor in mathematics.
+
+My dream career would involve combing technology and art together to create experiences that users ( and developers ) really love.
+
+At the moment I have a decent range of experience in programming and design aspects.
+Currently I am trying to figure out what area of programming I'd like to specialize in.</p>
 
 
 
