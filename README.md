@@ -1,7 +1,7 @@
 
 # Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Header][https://www.buymeacoffee.com/giomoscato101](https://www.buymeacoffee.com/giomoscato101)
+[https://www.buymeacoffee.com/giomoscato101](https://www.buymeacoffee.com/giomoscato101)
 
 # Who is Giovanni Moscato ? <img src="https://media.giphy.com/media/xUPGcz2H1TXdCz4suY/giphy.gif" width="100px" height="100px">
 
