@@ -21,9 +21,7 @@ Currently I am trying to figure out what area of programming I'd like to special
 ## Here are some of my key stats !
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/codingcodewhilegoofin/codingcodewhilegoofin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingcodewhilegoofin&hide=java,html&title_color=7417fc&text_color=01aefd&icon_color=#7417fc&bg_color=fffff8" />
-</a>
+
 
 
 
