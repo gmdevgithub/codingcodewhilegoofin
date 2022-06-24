@@ -1,5 +1,5 @@
 
-# Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="auto" height="auto">
 
 [https://www.buymeacoffee.com/giomoscato101](https://www.buymeacoffee.com/giomoscato101)
 
@@ -7,7 +7,7 @@
 
 <p> I started programming about 4 years ago at my community college. I'm currently working on 3-4 projects!
 
-I just graduated from Northern Illinois University with a B.S in computer science ( specifically computational programming ) and minor in mathematics.
+Graduated from Northern Illinois University with a B.S in computer science ( specifically computational programming ) and minor in mathematics.
 
 My dream career would involve combing technology and art together to create experiences that users ( and developers ) really love.
 
