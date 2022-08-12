@@ -5,9 +5,9 @@
 
 # Who is Giovanni Moscato ? <img src="https://media.giphy.com/media/xUPGcz2H1TXdCz4suY/giphy.gif" width="100px" height="100px">
 
-<p> I started programming about 4 years ago at my community college. I'm currently working on 3-4 projects!
+[Guide](https://medium.com/@_GMDev/how-to-start-coding-for-noobs-best-guide-ever-32fd51514f07)
 
-Graduated from Northern Illinois University with a B.S in computer science ( specifically computational programming ) and minor in mathematics.
+<p>Graduated from Northern Illinois University with a B.S in computer science ( specifically computational programming ) and minor in mathematics.
 
 My dream career would involve combing technology and art together to create experiences that users ( and developers ) really love.
 
