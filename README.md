@@ -1,11 +1,10 @@
 
-# Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="auto" height="auto">
 
 [https://www.buymeacoffee.com/giomoscato101](https://www.buymeacoffee.com/giomoscato101)
 
-# Who is Giovanni Moscato ? <img src="https://media.giphy.com/media/xUPGcz2H1TXdCz4suY/giphy.gif" width="100px" height="100px">
+# Who is Giovanni Moscato ? 
 
-[Guide](https://medium.com/@_GMDev/how-to-start-coding-for-noobs-best-guide-ever-32fd51514f07)
+[About me](https://medium.com/@_GMDev/how-to-start-coding-for-noobs-best-guide-ever-32fd51514f07)
 
 <p>Graduated from Northern Illinois University with a B.S in computer science ( specifically computational programming ) and minor in mathematics.
 
