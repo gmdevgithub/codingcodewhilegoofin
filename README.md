@@ -6,17 +6,11 @@
 
 # Who is Giovanni Moscato ? 
 
-[About me](https://medium.com/@_GMDev/how-to-start-coding-for-noobs-best-guide-ever-32fd51514f07)
+NIU grad B.S in CS.
 
-<p>Graduated from Northern Illinois University with a B.S in computer science ( specifically computational programming ) and minor in mathematics.
+5 years experience. 1 professional.
 
-My dream career would involve combing technology and art together to create experiences that users ( and developers ) really love.
-
-At the moment I have a decent range of experience in programming and design aspects.
-Currently I am trying to figure out what area of programming I'd like to specialize in.</p>
-
-
-
+Software Developer
 
 
 ## Here are some of my key stats !
